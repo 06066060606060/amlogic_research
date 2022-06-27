@@ -1,1 +1,1 @@
-# Antminer S19 amlogic research
+# Antminer S19 amlogic
